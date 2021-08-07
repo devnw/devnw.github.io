@@ -1,0 +1,38 @@
+{
+    "domain": "go.devnw.com",
+    "docsDomain": "pkg.go.dev",
+    "repositories": [
+        {
+            "prefix": "alog",
+            "url": "https://github.com/devnw/alog"
+        },
+        {
+            "prefix": "ttl",
+            "url": "https://github.com/devnw/ttl"
+        },
+        {
+            "prefix": "validator",
+            "url": "https://github.com/devnw/validator"
+        },
+        {
+            "prefix": "graph-cli",
+            "url": "https://github.com/devnw/graph-cli"
+        },
+        {
+            "prefix": "graph",
+            "url": "https://github.com/devnw/graph"
+        },
+        {
+            "prefix": "bridgekeeper",
+            "url": "https://github.com/devnw/bridgekeeper"
+        },
+        {
+            "prefix": "syncer",
+            "url": "https://github.com/devnw/syncer"
+        },
+        {
+            "prefix": "copy",
+            "url": "https://github.com/devnw/copy"
+        }
+    ]
+}
